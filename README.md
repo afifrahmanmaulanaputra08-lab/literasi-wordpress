@@ -1,5 +1,4 @@
-# LITERASI DIGITAL — WordPress Website
-
+# Profil Literasi Digital
 Website personal portfolio dan edukasi literasi digital menggunakan WordPress dan MySQL sebagai proyek mata kuliah Literasi Digital untuk Program Studi Sistem Informasi.
 
 Website ini bertujuan memberikan informasi dan edukasi mengenai keamanan akun digital, jejak digital, serta etika penggunaan media sosial. Website juga menyediakan halaman profil pengembang dan formulir kontak untuk komunikasi dengan pengunjung.
