@@ -1,0 +1,13 @@
+# File konfigurasi sensitif
+wp-config.php
+.env
+
+# File cache dan sementara
+wp-content/cache/
+wp-content/upgrade/
+wp-content/debug.log
+*.log
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
